@@ -1,1 +1,2 @@
-Click "🔰Preview🔰" then script is there!
+🔰Script🔰
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/AvatarUnlocker/main/IceHub"))()
